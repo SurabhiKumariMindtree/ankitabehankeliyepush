@@ -1,16 +1,16 @@
 {
-    "name": "favourite",
-    "version": "1.0.0",
-    "description": "simple book app",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "dependencies": {
-        "express": "*",
-        "body-parser": "*",
-        "mongoose": "*"
-    },
-    "author": "surabhi",
-    "license": "ISC"
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "lims app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.1"
+  },
+  "author": "surabhi",
+  "license": "ISC"
 }
